@@ -97,9 +97,9 @@ console.log(" ")
 //Status.
 nome = "Radagon, O maculado Sem renome."
 nivel += 711;
-pontosDeVida += 38524563;
+pontosDeVida += 1290;
 moedas += 67000;
-exeperiencia += 545435639367;
+exeperiencia += 99976;
 let arma = "Martelo Sagrado Imbuído com chama frenética"
 
 console.log("Status Atuais:")
@@ -130,8 +130,9 @@ console.log(nome);
 console.log("------------------------------------------")
 console.log(" ")
 console.log("Fim.")
-
-//Continuação da jornada nível 1
+console.log("---------------------------------------------------------")
+console.log("Continuação da jornada nível 1");
+console.log("---------------------------------------------------------")
 nome = "Radagon, lord do novo mundo";
 let classe = "Guerreiro";
 let vidaAtual = 1390;
@@ -152,9 +153,9 @@ let combateVencidos = 1346;
 //Estado atual da história
 let localAtual = "Platô Altus";
 let missaoAtual = "Matar miquella, consort de Radhan";
-
-//Prólogo
-
+console.log("---------------------------------------------------------")
+console.log("Prólogo");
+console.log("---------------------------------------------------------")
 console.log("Status Atuais:");
 console.log(`Nome: ${nome}`);
 console.log("----------------------------------------------------------------------");
@@ -165,10 +166,11 @@ console.log(`Experiência: ${experiencia}`);
 console.log(`Arma: ${arma}`);
 console.log("----------------------------------------------------------------------");
 
-/* Radagon, um guerreiro nascido ao mundo manchado em sem renome, acreditava que um dia poderia se tornar um Deus. Sozinho, sem donzela e equipamentos, segue seu caminho em busca de força e runas. Passando por inimigos para ao fim alcançar o objetivo, matar Deusa Marika. */
+console.log("Radagon, um guerreiro nascido ao mundo manchado em sem renome, acreditava que um dia poderia se tornar um Deus. Sozinho, sem donzela e equipamentos, segue seu caminho em busca de força e runas. Passando por inimigos para ao fim alcançar o objetivo, matar Deusa Marika.")
+console.log("----------------------------------------------------------------------");
 
 console.log("Seu objetivo é se tornar lorde das Terras Intermédias e vencer a Vontade Maior. Use da terra sua escada para se tornar o maculado mais forte.");
-
+console.log("----------------------------------------------------------------------");
 console.log(" ");
 
 console.log("- De longe vejo a térvore que a Vontade Maior guarda e proteje. Preciso entrar dentro dela, e matar o defensor do anel pristino.");
@@ -180,10 +182,12 @@ console.log("- Muito tempo se passou. Estou dentro da térvore, de cara a cara c
 console.log(" ");
 
 console.log("Luto com Marika, matando-a e pegando a posse do anel pristino, virando o novo consorte da vontade maior e o Deus do novo mundo.");
+console.log("----------------------------------------------------------------------");
 
-/* Radagon, agora Lord do novo mundo, se tornou um Deus. Mas para ele, não é o suficiente. Ele não quer ser Deus apenas das terras intermédias. Ele quer mais. Para onde ele vai agora? */
+console.log("Radagon, agora Lord do novo mundo, se tornou um Deus. Mas para ele, não é o suficiente. Ele não quer ser Deus apenas das terras intermédias. Ele quer mais. Para onde ele vai agora?")
+console.log("----------------------------------------------------------------------");
 
-//Capítulo 1
+console.log("Capítulo 1");
 nome = "Radagon, lord do novo mundo";
 classe = "Guerreiro";
 vidaAtual = 1390;
@@ -194,25 +198,28 @@ nivel = 713;
 moedas = 67000;
 experiencia = 999067;
 arma = "Martelo Sagrado Imbuído com chama frenética";
+console.log("----------------------------------------------------------------------");
 
-/* Radagon, depois de dominar as terras intermédias parte para uma ilha tão, tão distante, A ilha sombra da térvore.
-Chegando na ilha, Radagon senta e faz uma fogueira na entrada de uma caverna. Utiliza alguns gravetos espalhados por ali e com seu poder de chama frenética ele produz o próprio fogo e descança. */
-
+console.log("Radagon, depois de dominar as terras intermédias parte para uma ilha tão, tão distante, A ilha sombra da térvore.Chegando na ilha, Radagon senta e faz uma fogueira na entrada de uma caverna. Utiliza alguns gravetos espalhados por ali e com seu poder de chama frenética ele produz o próprio fogo e descança.");
+console.log("----------------------------------------------------------------------");
 console.log(" ");
 console.log("z");
 console.log("zz");
 console.log("zzz");
 console.log("zzzz");
 console.log("zzzzzzzzzz...");
+console.log("----------------------------------------------------------------------");
 
-/* De manhã Radagon acorda cedo de mais. Ele olha para os lados e vê o motivo. Um mercador estava montando sua barraca ao lado.*/
+ console.log("De manhã Radagon acorda cedo de mais. Ele olha para os lados e vê o motivo. Um mercador estava montando sua barraca ao lado.");
+ console.log(" ")
 
 console.log("Boa tarde! vi que dormiu e não quis incomodar. Onde você está é onde eu fico.🧔🏽"); //Diz o mercador.
 console.log("- Ah, perdão, eu não sabia. Utilizei seus gravetos para a fogueira."); //Diz radagon. 
 console.log("Não tem problema. Já que está aqui, quer dar uma olhada no que eu trouxe?🧔🏽"); //Mercador.
 console.log("Adoraria."); //Radagon.
+console.log(" ")
 
-/* Radagon vai até a carroça do mercador e dá uma olhada.*/
+console.log("Radagon vai até a carroça do mercador e dá uma olhada.");
 
 console.log(" ");
 console.log("--------//--------");
@@ -241,7 +248,56 @@ if (moedas >= mapaMagico) {
 } else {
     console.log("Você não tem condições de ter isso. 🧔🏽");
 }
+console.log("----------------------------------------------------------------------");
 
-/*O mercador fica no local, Radagon veste sua armadura, pega sua arma e segue o caminho que o mapa guia. o Mapa diz que ele deve passar pelo Castelo Tempesvéu e matar Messmer, O homem cobra. Messmer também é um maculado, mas perdeu a orientação da térvore e foi para a a ilha.*/
+console.log("O mercador fica no local, Radagon veste sua armadura, pega sua arma e segue o caminho que o mapa guia. o Mapa diz que ele deve passar pelo Castelo Tempesvéu e matar Messmer, O homem cobra. Messmer também é um maculado, mas perdeu a orientação da térvore e foi para a a ilha.");
+console.log("----------------------------------------------------------------------");
+
+console.log("Capítulo 2");
+console.log("----------------------------------------------------------------------");
+
+console.log("Radagon segue caminho Até o castelo Tempesvéu. Durante a jornada muitos inimigos fracos tentam roubar e matar Radagon, porém, Radagon era forte de mais para eles. Ele oblitera todos e ganha runas.");
+console.log("----------------------------------------------------------------------");
+moedas += 30000;
+
+console.log("Na porta do castelo, tem um enorme portão. Olhando pelos furos, existia milhares de cata-pulta e soldados bem posicionados protegendo o portão. Radagon vai dar a volta?");
+console.log("----------------------------------------------------------------------");
+
+console.log(" ")
+
+if (nivel >= 670 && agilidade >= 10 && forca >= 20) {
+    console.log("Vou pelo portão. Posso desviar e matar eles por trás.")
+} else if (nivel < 670 || agilidade < 10 || forca < 20) {
+    console.log("Vou por outro caminho.")
+} else {console.log("Preciso treinar por mais um tempo.")
+
+}
+
+console.log(" ");
+
+console.log("Radagon vai pelo portão da frente, desvia das flechas e ataca os atiradores. Aproxima-se das cata-pultas antes mesmo de serem acionadas e corta a garganta do armador. Radagon segue caminho pelo castelo, só que agora, seus inimigos inferiores pelo castelo temem á ele, não se aproximam e se enrolam, com medo de Radagon.");
+
+console.log("Radagon olha o mapa, e acha a sala de Messmer. Uma sala gigante que parecia vazia, com estantes de livros e um lustre tão grande no teto mais ou medos 150 metros acima da cabeça de radagon. Até que derrepente algo se estala e Radagon olha pra trás. Messmer, em carne e osso, encara Radagon. Após um tempo de clima frio e sem palvras ditas, Messer diz:");
+console.log(" ")
+
+console.log("Um maculado que se tornou lorde nunca poderia devorar a escuridão e trazer a luz para o Reino das sombras.🐍");
+console.log("Essa será a sua última batalha, maculado sem renome.🐍");
+console.log("");
+console.log("---------------------------------------------------------")
+
+console.log("Messmer avança em Radagon, com sua lança curvada em formato de cobra. Radagon desvia e segura seu martelo. Uma batalha de Veneno e Fé começa. Um quer restaurar a Luz, e outro quer se esconder na escuridão. Passam-se 30 minutos de luta, os dois estão Puramente cansados e sem fôlego. Cortes profundos, dores extremas, e Radagon com seus ogãos ardendo cada vez mais por conta do veneno no corpo. Messmer cai de joelhos, porem Radagon não tem força para alcança-lo. Messmer diz algo, olhando para o lustre, onde não há nada, e sua voz apenas profere um eco");
+console.log("---------------------------------------------------------")
+
+pontosDeVida -= 890;
+console.log("Oh mãe, me perdoe. Um lorde maculado fraco está tentando me tirar daqui. E eu, não sou capaz de segura-lo.🐍");
+console.log("---------------------------------------------------------")
+
+console.log("Mesmmer arranca o olho direito, que a propósito era o olho de uma cobra. Ele esmaga e um vento forte junto com luz e gritos surgem. Uma cobra gigante aparece na lança de Mesmmer, junto com cobras enormes saindo de seus braços e cabelos. Lembrava a Medusa. Radagon, durante esse tempo, usou uma poção que ele adiquiriu de um mercador nômade há um tempo. Ela tirou o efeito negativo de veneno e aumentou o processo de cura dos cortes. Um buff.");
+console.log("---------------------------------------------------------")
+pontosDeVida += 5000;
+
+console.log("Radagon se levanta, pronto para lutar de novo.");
+console.log("---------------------------------------------------------")
+console.log("Capítulo 3.")
 
 
