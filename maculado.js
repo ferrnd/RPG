@@ -310,9 +310,62 @@ console.log("Eu pensei que podia vencer ele, desculpa.")
 console.log("---------------------------------------------------------");
 console.log("Messmer cai, de frente com um quadro que pintaste, era ele junto com sua mãe. Ele fecha os olhos gradualmente, focando o seu olhar no quadro. E, seu último uspiro é feito. Messer, O guardião da térvore, foi oficialmente morto, dentre 300 anos.");
 console.log("---------------------------------------------------------");
-console.log("Radagon, por mais que cançado, honrou a sua batalha. ele enterra Messmer de frente ao castelo e segue o caminho até a térvore. Duas horas de caminhada de uma ponte que parecia sem fim, finalmente acabam. Radagon, em frente a térvore, vendo ela escura e com suas vinas pretas de escuridão cobrindo-a. Radagon levanta seu martelo, deixando seu poder de chama frenética para trás, para que assim possa queimar as vinas. Um enorme fogaréu começa. O céu cinza, se torna claro. A grama morta, revive. As vidas não nascidas, nascem. Radagon, agora, restaurou a ordem ao mundo. Aqueles que erraram, foram perdoados, os alamdiçoados, foram libertos, os fracos se tornaram forte e a espernça foi restabelecida ao mundo, deixando de lado toda aquela escuridão. Anos se passaram e Radagon deixa seu trono, sem ningúem para enterra-lo. Ninguém nunca soube de seu feito e o que fez por todos eles. Sem um sucessor, a térvore é selada com vinas novamente, sendo impenetrável pelo resto da eternidade. Apesar de não reconhecido, ele fez um bom trabalho. Por fim, Radagon descançou em paz, selado junto da térvore, e tornando parte dela.");
+console.log("Radagon, por mais que cançado, honrou a sua batalha. ele enterra Messmer de frente ao castelo e segue o caminho até a térvore. Duas horas de caminhada de uma ponte que parecia sem fim, finalmente acabam. Radagon, em frente a térvore, vendo ela escura e com suas vinas pretas de escuridão cobrindo-a. Radagon levanta seu martelo, deixando seu poder de chama frenética para trás, para que assim possa queimar as vinas. Um enorme fogaréu começa. O céu cinza, se torna claro. A grama morta, revive. As vidas não nascidas, nascem. Radagon, agora, restaurou a ordem ao mundo. Aqueles que erraram, foram perdoados, os alamdiçoados, foram libertos, os fracos se tornaram forte e a espernça foi restabelecida ao mundo, deixando de lado toda aquela escuridão. Anos se passaram e Radagon deixa seu trono, sem ningúem para enterra-lo. Ninguém nunca soube de seu feito e o que fez por todos eles. Sem um sucessor, a térvore é selada com vinas novamente, sendo impenetrável pelo resto da eternidade. Apesar de não reconhecido, ele fez um bom trabalho. Por fim, Radagon descançou em paz, selado junto da térvore, e tornando-se parte dela.");
 console.log(" ");
 console.log("Fim.")
+console.log(" ");
+console.log("Não é porque foi dito 'Fim' que realmente terá um fim.");
+console.log("--------------------------------------------------------");
+console.log("Guiado pela graça, um novo maculado sem renome surge...");
+
+let nomePersonagem = "Thorfinn";
+let classePersonagem = "Ladino";
+let nivelPersonagem = 10;
+let vidaPersonagem = 100;
+let ouroPersonagem = 50;
+
+console.log("~~//--Status--//~~");
+console.log(`Nome: ${nomePersonagem}
+    Classe: ${classePersonagem}
+    Nível: ${nivelPersonagem}
+    Vida: ${vidaPersonagem}
+    Ouro: ${ouroPersonagem}`);
+console.log("~~//---//----//~~")
+console.log("Diferente de Radagon, thorfinn procura benefícios próprios. e essa, é sua história:");
+let inventario = ["Adaga", "Adaga", "Pano", "Maçã"];
+console.log("--------------------------------------------------------");
+console.log("Droga, onde estou? parece um tipo de caverna... Acabei me perdendo quando vim pra essas terras estranhas... Preciso checar meu inventário");
+console.log(" ")
+console.log(`Inventário: ${inventario}`);
+console.log(" ")
+console.log("Como assim eu só tenho uma maçã? acho que já comi as outras... Vou comer essa. Meu estômago está embrulhando.");
+
+inventario.pop();
+
+console.log(`Inventário atual: ${inventario}`);
+console.log("");
+console.log("agora eu preciso ir. Quero ficar mais forte e ganhar mais dinheiro.");
+console.log("");
+console.log("--------------------------------------------------------");
+console.log("No caminho, thorfinn acha alguns gnomos orelhudos, mas não sabe se são inimigos ou aliados.");
+console.log("--------------------------------------------------------");
+console.log("");
+console.log("Ei, por que vem em minha direção??");
+console.log("Acalme-se rapaz, só estamos aqui para te fazer uma proposta");
+console.log("Que proposta?");
+console.log("Queremos te chamar pra invadir o castelo dos ARRAYS com a gente. Você parece forte. Ganhariamos uma boa quantidade de dinheiro com isso. A propósito, sou Berk. Ele é Rashk, ele alí é o Yesra e aquele alí é o Cherek");
+console.log("Prazer, todos vocês. Sou Thorfinn e aceito a proposta. Seremos bom aliados.");
+console.log("");
+let aliados = ["Berk", "Rashk", "Yesra", "Cherek"]
+console.log(`Aliados: ${aliados}`);
+console.log("");
+console.log("--------------------------------------------------------");
+console.log("Thorfinn parte em uma jornada até o castelo ARRAYS com seus aliados, planejando roubar todo o ouro para si.");
+console.log("--------------------------------------------------------");
+
+
+
+
 
 
 
