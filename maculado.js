@@ -266,10 +266,10 @@ console.log("-------------------------------------------------------------------
 console.log(" ")
 
 if (nivel >= 670 && agilidade >= 10 && forca >= 20) {
-    console.log("Vou pelo portão. Posso desviar e matar eles por trás.")
+    console.log("Vou pelo portão. Posso desviar e matar eles por trás.");
 } else if (nivel < 670 || agilidade < 10 || forca < 20) {
-    console.log("Vou por outro caminho.")
-} else {console.log("Preciso treinar por mais um tempo.")
+    console.log("Vou por outro caminho.");
+} else {console.log("Preciso treinar por mais um tempo.");
 
 }
 
@@ -283,21 +283,34 @@ console.log(" ")
 console.log("Um maculado que se tornou lorde nunca poderia devorar a escuridão e trazer a luz para o Reino das sombras.🐍");
 console.log("Essa será a sua última batalha, maculado sem renome.🐍");
 console.log("");
-console.log("---------------------------------------------------------")
+console.log("---------------------------------------------------------");
 
 console.log("Messmer avança em Radagon, com sua lança curvada em formato de cobra. Radagon desvia e segura seu martelo. Uma batalha de Veneno e Fé começa. Um quer restaurar a Luz, e outro quer se esconder na escuridão. Passam-se 30 minutos de luta, os dois estão Puramente cansados e sem fôlego. Cortes profundos, dores extremas, e Radagon com seus ogãos ardendo cada vez mais por conta do veneno no corpo. Messmer cai de joelhos, porem Radagon não tem força para alcança-lo. Messmer diz algo, olhando para o lustre, onde não há nada, e sua voz apenas profere um eco");
-console.log("---------------------------------------------------------")
+console.log("---------------------------------------------------------");
 
 pontosDeVida -= 890;
 console.log("Oh mãe, me perdoe. Um lorde maculado fraco está tentando me tirar daqui. E eu, não sou capaz de segura-lo.🐍");
-console.log("---------------------------------------------------------")
+console.log("---------------------------------------------------------");
 
 console.log("Mesmmer arranca o olho direito, que a propósito era o olho de uma cobra. Ele esmaga e um vento forte junto com luz e gritos surgem. Uma cobra gigante aparece na lança de Mesmmer, junto com cobras enormes saindo de seus braços e cabelos. Lembrava a Medusa. Radagon, durante esse tempo, usou uma poção que ele adiquiriu de um mercador nômade há um tempo. Ela tirou o efeito negativo de veneno e aumentou o processo de cura dos cortes. Um buff.");
-console.log("---------------------------------------------------------")
+console.log("---------------------------------------------------------");
 pontosDeVida += 5000;
 
 console.log("Radagon se levanta, pronto para lutar de novo.");
-console.log("---------------------------------------------------------")
-console.log("Capítulo 3.")
+console.log("---------------------------------------------------------");
+console.log("Capítulo 3.");
+console.log("Por que você continua lutando? a custo de que?🐍");
+console.log("- Não é questão de querer ser mais forte. Eu quero poder trazer ordem e um mundo bom para todos.");
+console.log("Desista.🐍");
+console.log("---------------------------------------------------------");
+console.log("Messmer ataca Ragadon. Porém, com apenas um olho e o sentimento de insuficiência e fraquesa, Messer erra. Radagon acerta um golpe crítico em Messmer e ele se ajoelha enquando cospe sangue pela boca. Tenta invocar suas cobras e não consegue, está fraco de mais. Todo esse tempo gurdando o caminho para a térvore das sombras, sendo disperdiçado por um Maculado qualquer. A única herança de sua mãe que possuia era seu olho. E Messmer o esmagou procurando poder, e obteve mágoas.");
+console.log("---------------------------------------------------------");
+console.log("Eu não quero morrer... Por que isso? o que eu fiz de errado? Mãe? Oh mãe, você está orgulhosa de mim?🐍");
+console.log("Eu pensei que podia vencer ele, desculpa.")
+console.log("---------------------------------------------------------");
+console.log("Messmer cai, de frente com um quadro que pintaste, era ele junto com sua mãe. Ele fecha os olhos gradualmente, focando o seu olhar no quadro. E, seu último uspiro é feito. Messer, O guardião da térvore, foi oficialmente morto, dentre 300 anos.");
+console.log("---------------------------------------------------------");
+console.log("Radagon, por mais que cançado, honrou a sua batalha. ele enterra Messmer de frente ao castelo e segue o caminho até a térvore. Duas horas de caminhada de uma ponte que parecia sem fim, finalmente acabam. Radagon, em frente a térvore, vendo ela escura e com suas visgas pretas de escuridão cobrindo-a. Radagon levanta seu martelo, deixando seu poder de chama frenética para trás, para que assim possa queimar as visgas. Um enorme fogaréu começa. O céu cinza, se torna claro. A grama morta, revive. As vidas não nascidas, nascem. Radagon, agora, restaurou a ordem ao mundo. Aqueles que erraram, foram perdoados, os alamdiçoados, foram libertos, os fracos se tornaram forte e a espernça foi restabelecida ao mundo, deixando de lado toda aquela escuridão.");
+
 
 
