@@ -360,9 +360,20 @@ let aliados = ["Berk", "Rashk", "Yesra", "Cherek"]
 console.log(`Aliados: ${aliados}`);
 console.log("");
 console.log("--------------------------------------------------------");
-console.log("Thorfinn parte em uma jornada até o castelo ARRAYS com seus aliados, planejando roubar todo o ouro para si.");
+console.log("Thorfinn parte em uma jornada até o castelo ARRAYS com seus aliados, planejando roubar todo o ouro para si. Era um caminho grande, distante, demorado, difícil. Passaram horas, dias, semanas e meses.");
 console.log("--------------------------------------------------------");
+console.log("");
+console.log("Finalmente. Eu posso finalmente ver o castelo.");
+console.log("Berk ficaria orgulhoso da gente.");
+console.log("Sim.");
+console.log("");
 
+aliados.shift();
+console.log(`Aliados: ${aliados}`);
+console.log("");
+console.log("Vamos descançar aqui. Precisamos de energia amanhã.");
+console.log("--------------------------------------------------------");
+console.log("Thorfinn e seus aliados montam uma barraca e descançam. Esperam chegar amanhã cedo para finalmente atacar. Thorfinn não conseguia dormir direito, pois eles são apenas em 4, e o castelo é denfendido por mais de 200 soldados de Forss.");
 
 
 
