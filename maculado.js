@@ -370,10 +370,39 @@ console.log("");
 
 aliados.shift();
 console.log(`Aliados: ${aliados}`);
+
 console.log("");
 console.log("Vamos descançar aqui. Precisamos de energia amanhã.");
 console.log("--------------------------------------------------------");
-console.log("Thorfinn e seus aliados montam uma barraca e descançam. Esperam chegar amanhã cedo para finalmente atacar. Thorfinn não conseguia dormir direito, pois eles são apenas em 4, e o castelo é denfendido por mais de 200 soldados de Forss.");
+console.log("Thorfinn e seus aliados montam uma barraca e descançam. Esperam chegar amanhã cedo para finalmente atacar.");
+console.log("--------------------------------------------------------");
+console.log("");
+console.log("Chegou de manhã. Vamos avançar até o castelo. Estou confiante.");
+console.log("--------------------------------------------------------");
+console.log("thorfinn e seus aliados chegam ao castelo array. mas tem muitos defensores do castelo que são, agora, inimigos de thorfinn.");
+
+let inimigos = ["Qack", "Wack", "Rack", "Tack", "Yack", "Pack", "SackBoy", "Jack", "Kack", "Lack"]
+console.log("");
+console.log(`Inimigos de thorfinn: ${inimigos}`);
+console.log("");
+console.log("--------------------------------------------------------");
+console.log("Meu deus, eles estão em quantos? são muita gente.");
+console.log(`eu contei, eles estão em ${inimigos.length}`);
+console.log("Nós 'damo' conta.");
+console.log("--------------------------------------------------------");
+console.log(`Thorfinn e seus aliados ${aliados} ivadem o castelo array com o objetivo de roubar todo o ouro. Porém, precisaria ultrapasar pela defesa primeiro, e são muitos inimgos para derrotar. Cherek já sai na frente de todos e parte em cima dos 10. ele crava sua espada bem no peito de Lack, e sua espada afiada e grande o atravessa e acerta em cheio o cérebro de Kack. Depois disso os ouros 8 Defensores da torre sobem em cima de Cherek e lincham ele.`);
+aliados.pop()
+inimigos.pop()
+inimigos.pop()
+console.log("")
+console.log(`Aliados restantes: ${aliados}`);
+console.log(`Inimigos restantes: ${inimigos}`)
+console.log("")
+console.loh("Thorfinn, enfurecido de ódio, pensou como ninguém tinha pensando em um plano pra isso. para ele, seria tão fácil ele se infiltrar e roubar o ouro em silêncio. Ele pensa em fugir e pegar todo o ouro sozinho, mas ao mesmo tempo ele fica com pena de seus aliados. Throfinn pensou por mais 3 segundos até deixar Rashk e Yesra irem na frente, e ele foge por trás sem que ninguém perceba. Ele sobe alguns muros do castelo até chegar no segundo andar, por baixo ele vê Rashk e Yesra sendo mortos, porem coninua seu caminho. com todos os defensores concentrados no andar de baixo thorffin consegue chegar a sala de ouro. Ele enche sua bolsa com todo o ouro possível e foge.");
+
+
+
+
 
 
 
