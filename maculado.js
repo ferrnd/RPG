@@ -398,8 +398,20 @@ console.log("")
 console.log(`Aliados restantes: ${aliados}`);
 console.log(`Inimigos restantes: ${inimigos}`)
 console.log("")
-console.loh("Thorfinn, enfurecido de ódio, pensou como ninguém tinha pensando em um plano pra isso. para ele, seria tão fácil ele se infiltrar e roubar o ouro em silêncio. Ele pensa em fugir e pegar todo o ouro sozinho, mas ao mesmo tempo ele fica com pena de seus aliados. Throfinn pensou por mais 3 segundos até deixar Rashk e Yesra irem na frente, e ele foge por trás sem que ninguém perceba. Ele sobe alguns muros do castelo até chegar no segundo andar, por baixo ele vê Rashk e Yesra sendo mortos, porem coninua seu caminho. com todos os defensores concentrados no andar de baixo thorffin consegue chegar a sala de ouro. Ele enche sua bolsa com todo o ouro possível e foge.");
+console.log("Thorfinn, enfurecido de ódio, pensou como ninguém tinha pensando em um plano pra isso. para ele, seria tão fácil ele se infiltrar e roubar o ouro em silêncio. Ele pensa em fugir e pegar todo o ouro sozinho, mas ao mesmo tempo ele fica com pena de seus aliados. Throfinn pensou por mais 3 segundos até deixar Rashk e Yesra irem na frente, e ele foge por trás sem que ninguém perceba. Ele sobe alguns muros do castelo até chegar no segundo andar, por baixo ele vê Rashk e Yesra sendo mortos, porem coninua seu caminho. com todos os defensores concentrados no andar de baixo thorffin consegue chegar a sala de ouro. Ele enche sua bolsa com todo o ouro possível e foge. por cima do castelo. chegando em uma ponte, Thorfinn pula da ponte e cai em um rio, onde consegue nadar e chegar em uma praia, onde se senta e conta seu ouro roubado.");
 
+let ouroRoubado = 0;
+for (let i = 0; i < 100; i++) {
+    ouroRoubado += 1;
+    console.log(` ${ouroRoubado} moedas de ouro.`);
+}
+console.log(`Total de ouro roubado por Thorfinn: ${ouroRoubado}`);
+console.log("--------------------------------------------------------");
+console.log("Thorfinn, agora com muito ouro, se sente satisfeito. Ele não precisa mais de aliados, e não precisa mais de ninguém. Ele agora é um ladrão rico, e pode fazer o que quiser. Ele volta para sua caverna e se senta, pensando em como ele vai gastar todo esse ouro.");
+console.log("--------------------------------------------------------");
+
+let tesourosEncontrados = ["Ouro"];
+console.log(`Tesouros encontrados: ${tesourosEncontrados}`);
 
 
 
